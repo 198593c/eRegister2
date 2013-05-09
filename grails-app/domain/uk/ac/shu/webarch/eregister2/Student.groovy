@@ -4,6 +4,8 @@ class Student {
 
 	String name
 	String studentNumber
+	String full_studentname
+	String studentName
 
 	static hasMany = [
 	student_register:RegEntry

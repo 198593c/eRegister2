@@ -6,7 +6,6 @@
 	</head>
 	<body>
 		<p>This is the Student </p>
-		<p>Hello ${userName} </p>
-		<p>${Integer.parseInt(params.id)*10}</p>
+		
 	</body>
 </html>
